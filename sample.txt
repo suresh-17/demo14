@@ -10,3 +10,5 @@ git stash command
 git fork
 
 git stash
+
+git stash1
